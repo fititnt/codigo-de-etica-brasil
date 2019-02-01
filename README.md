@@ -2,7 +2,7 @@
 
 ![Lista de Códigos de Ética Usados no Brasil](img/codigo-de-etica-brasil.png)
 
-[![Total](badges/total.svg)](#lista) [![Profissionais](badges/profissionais.svg)](#profissionais)
+[![Total](badges/total.svg)](#lista) [![Profissional](badges/profissional.svg)](#profissional) [![Religião](badges/religiao.svg)](#religião) [![Crime](badges/crime.svg)](#crime)
 
 **_Veja também: [ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_**
 
@@ -10,7 +10,7 @@
 
 # Lista
 
-## Profissionais
+## Profissional
 
 ### Advocacia
 
@@ -55,20 +55,31 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Data: 2001-08
 - Arquivo: **[Código de Ética dos Profissionais de Relações Públicas](http://conferp.org.br/site/wp-content/uploads/2018/12/Co%CC%81digodeE%CC%81tica.pdf)**
 
-<!--
-### Código de Ética dos Profissionais de Relações Públicas
+## Religião
 
-- Organização: [CONFEREP](http://conferp.org.br/)
-- Data: 2001-08
-- Arquivo: **[Código de Ética dos Profissionais de Relações Públicas](http://conferp.org.br/site/wp-content/uploads/2018/12/Co%CC%81digodeE%CC%81tica.pdf)**
+### Catolicismo
+- Organização: [Vaticano](http://www.vatican.va)
+- Data: 1983-01-25
+- Arquivo: **[Código de Direito Canónico](http://www.vatican.va/archive/cod-iuris-canonici/portuguese/codex-iuris-canonici_po.pdf)**
+
+## Crime
+### CV
+- Organização: [Comando Vermelho (CV)](https://pt.wikipedia.org/wiki/Comando_Vermelho)
+- Data: (?)
+- (Citação do) Arquivo: **[(Suposto) Estatuto do Comando Vermelho (CV)](http://cnews.com.br/cnews/noticias/107696/menor_revela_detalhes_sobre_%22batismo%22_no_comando_vermelho)**
+
+### PCC
+- Organização: [Primeiro Comando da Capital (PCC)](https://pt.wikipedia.org/wiki/Primeiro_Comando_da_Capital)
+- Data: 1993 (?)
+- (Citação do) Arquivo: **[(Suposto) Estatuto do Primeiro Comando da Capital (PCC)](https://pt.wikisource.org/wiki/Estatuto_do_PCC)**
+
+<!--
+### PCC
+- Organização: **[NOME NOME NOME NOME](http://LINK-LINK-LINK)**
+- Data: YYYY-MM-DD-01-25
+- Arquivo: **[NOME NOME NOME NOME](http://LINK-LINK-LINK)**
 -->
 
-<!--
-# Pesquitas frequentes
-
-- ****
-
--->
 
 # Contribua
 Para enviar sugestões, atualizações, correções e críticas, você pode:
