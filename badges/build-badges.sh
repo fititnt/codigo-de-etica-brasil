@@ -6,8 +6,8 @@
 # Hint: to do a fast preview, replace '> filename.svg' with  '--browser', example:
 ## python -m pybadges --left-text='Label here' --right-text='Value here' --right-color='#26A65B' --browser
 
-python -m pybadges --left-text='Total' --right-text='2' --right-color='#26A65B' > total.svg
-python -m pybadges --left-text='Profissionais' --right-text='2' --right-color='#1E90FF' > profissionais.svg
+python -m pybadges --left-text='Total' --right-text='5' --right-color='#26A65B' > total.svg
+python -m pybadges --left-text='Profissionais' --right-text='5' --right-color='#1E90FF' > profissionais.svg
 #python -m pybadges --left-text='Asia' --right-text='2' --right-color='#1E90FF' > orgs-asia.svg
 #python -m pybadges --left-text='Europe' --right-text='4' --right-color='#1E90FF' > orgs-europe.svg
 #python -m pybadges --left-text='North America' --right-text='6' --right-color='#1E90FF' > orgs-north-america.svg
