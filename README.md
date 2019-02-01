@@ -23,6 +23,12 @@
 > Aviso: esta organização tem documentos adicionais ao arquivo do CED
 apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 
+### Alta Administração Federal
+#### Código de Conduta da Alta Administração Federal
+- Organização: [Presidência da República/Casa Civil](http://www.casacivil.gov.br)
+- Data: 2000-08-18
+- Arquivo: **[Código de Conduta da Alta Administração Federal](http://www.planalto.gov.br/ccivil_03/codigos/codi_conduta/cod_conduta.htm)**
+
 ### Engenharia
 
 #### Código de Ética Profissional da Engenharia, da Agronomia, da Geologia, da Geografia e da Meteorologia
@@ -47,6 +53,20 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Data: 2009-09-17
 - Arquivo: **[Código de Ética Médica](https://portal.cfm.org.br/images/stories/biblioteca/codigo%20de%20etica%20medica.pdf)**
 
+### Polícia Federal
+
+#### Código de Ética da Polícia Federal
+- Organização: [Conselho Superior da Polícia](http://www.pf.gov.br)
+- Data: 2015-03-26
+- Arquivo: **[Código de Ética da Polícia Federal](http://www.pf.gov.br/institucional/resolucao-no-04-csp-dpf-de-26-de-marco-de-2015)**
+
+### Psicologia
+
+#### Código de Ética Profissional do Psicólogo
+- Organização: [Conselho Federal de Psicologia (CFP)](https://cfp.org.br)
+- Data: 2005-08
+- Arquivo: **[Código de Ética Profissional do Psicólogo](https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf)**
+
 ### Relações Públicas
 
 #### Código de Ética dos Profissionais de Relações Públicas do CONRERP
@@ -54,6 +74,13 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Organização: [Conselho Federal de Profissionais de Relações Públicas (CONRERP)](http://conferp.org.br/)
 - Data: 2001-08
 - Arquivo: **[Código de Ética dos Profissionais de Relações Públicas](http://conferp.org.br/site/wp-content/uploads/2018/12/Co%CC%81digodeE%CC%81tica.pdf)**
+
+### Servidor Público Civil
+
+#### Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal
+- Organização: [Presidência da República/Casa Civil](http://www.casacivil.gov.br)
+- Data: 1994-06-22
+- Arquivo: **[Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal](http://www.planalto.gov.br/ccivil_03/decreto/d1171.htm)**
 
 ## Religião
 
@@ -63,6 +90,16 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Arquivo: **[Código de Direito Canónico](http://www.vatican.va/archive/cod-iuris-canonici/portuguese/codex-iuris-canonici_po.pdf)**
 
 ## Crime
+> Avisos importantes sobre as referências desta área:
+> 
+> - As organizações citadas são consideradas no Brasil como 
+  [organizações criminosas](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12850.htm).
+> - Não confundir eventual uso de termo _partido_ nestes arquivos como
+  na definição oficial de _[partido político](https://pt.wikipedia.org/wiki/Partido_pol%C3%ADtico)_;
+>   - ainda que recentemente
+  em [país vizinho ao Brasil uma organização terrorista, FARC, tenha feito acordo de paz e poder se tornar um partido político de fato](https://www.economist.com/the-americas/2017/11/09/the-farc-is-now-a-political-party-get-used-to-it), não há nem mesmo proposta publicamente conhecida de pedido de anistia de
+  qualquer destas organizações no Brasil.
+
 ### CV
 - Organização: [Comando Vermelho (CV)](https://pt.wikipedia.org/wiki/Comando_Vermelho)
 - Data: (?)
@@ -74,8 +111,8 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - (Citação do) Arquivo: **[(Suposto) Estatuto do Primeiro Comando da Capital (PCC)](https://pt.wikisource.org/wiki/Estatuto_do_PCC)**
 
 <!--
-### PCC
-- Organização: **[NOME NOME NOME NOME](http://LINK-LINK-LINK)**
+#### NOME
+- Organização: [NOME NOME NOME NOME](http://LINK-LINK-LINK)
 - Data: YYYY-MM-DD-01-25
 - Arquivo: **[NOME NOME NOME NOME](http://LINK-LINK-LINK)**
 -->
@@ -84,7 +121,7 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 # Contribua
 Para enviar sugestões, atualizações, correções e críticas, você pode:
 
-- Conversar via e-mail (privado):
+- Via e-mail:
   - Com o mantenedor: Emerson Rocha <rocha@ieee.org>.
 - Via o GitHub (público):
   - [Levantar um ponto de discussão <sup>link em inglês</sup>](https://help.github.com/articles/creating-an-issue/)
