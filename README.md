@@ -45,6 +45,13 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Data: 2015-06-15
 - Arquivo: **[Código de Ética da FUNAI](http://www.funai.gov.br/arquivos/conteudo/cogedi/pdf/Outras_Publicacoes/Codigo%20de%20Etica/Codigo%20de%20Etica%20da%20Funai.pdf)**
 
+### Informática
+
+#### Código de Ética dos Profissionais de Informática da SBC
+- Organização: [Sociedade Brasileira de Computação (SBC)](http://www.sbc.org.br/)
+- Data: 2013-07-15
+- Arquivo: **[Código de Ética dos Profissionais de Informática](http://www.sbc.org.br/jdownloads/02.codigo_de_etica_da_sbc.pdf)**
+
 ### Medicina
 
 #### Código de Ética Médica do Conselho Federal de Medicina
@@ -85,6 +92,8 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 ## Religião
 
 ### Catolicismo
+
+#### Código de Direito Canónico
 - Organização: [Vaticano](http://www.vatican.va)
 - Data: 1983-01-25
 - Arquivo: **[Código de Direito Canónico](http://www.vatican.va/archive/cod-iuris-canonici/portuguese/codex-iuris-canonici_po.pdf)**
@@ -113,7 +122,7 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 <!--
 #### NOME
 - Organização: [NOME NOME NOME NOME](http://LINK-LINK-LINK)
-- Data: YYYY-MM-DD-01-25
+- Data: YYYY-MM-DD
 - Arquivo: **[NOME NOME NOME NOME](http://LINK-LINK-LINK)**
 -->
 
