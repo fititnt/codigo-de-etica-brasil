@@ -52,6 +52,29 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Data: 2013-07-15
 - Arquivo: **[Código de Ética dos Profissionais de Informática](http://www.sbc.org.br/jdownloads/02.codigo_de_etica_da_sbc.pdf)**
 
+### Jornalista
+
+#### Código de Ética dos Jornalistas Brasileiros da ABI
+- Organização:
+  - [Associação Brasileira de Imprensa (ABI)](http://www.abi.org.br)
+  - [ABI na Wikipedia](https://pt.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Brasileira_de_Imprensa)
+  - Organização fundada em 1908-04-07
+- Data: <abbr title="Requer confirmação">(?)</abbr>
+- Arquivo: **[Código de Ética dos Jornalistas Brasileiros (ABI)](http://www.abi.org.br/institucional/legislacao/codigo-de-etica-dos-jornalistas-brasileiros/)**
+
+#### Código de Ética dos Jornalistas Brasileiros da FENAJ
+- Organização:
+  - [Federação Nacional dos Jornalistas (FENAJ)](https://fenaj.org.br)
+  - [Federação Nacional dos Jornalistas](https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_Nacional_dos_Jornalistas)
+  - Organização fundada em 1946-07-20
+- Data: 2008 <abbr title="Requer confirmação">(?)</abbr>
+- Arquivo: **[Código de Ética dos Jornalistas Brasileiros (FENAJ)](http://fenaj.org.br/wp-content/uploads/2016/08/codigo_de_etica_dos_jornalistas_brasileiros-1.pdf)**
+
+#### Informações extras para Jornalista
+- Legislação
+  - [Lei nº 5.250, de 9 de fevereiro de 1967. (_"Lei da liberdade de Imprensa"_)](http://www.planalto.gov.br/ccivil_03/decreto/Antigos/D83284.htm)
+  - [Decreto nº 83.284, de 13 de março de 1979 (_"Lei do Jornalismo"_)](http://www.planalto.gov.br/ccivil_03/decreto/Antigos/D83284.htm)
+
 ### Medicina
 
 #### Código de Ética Médica do Conselho Federal de Medicina
