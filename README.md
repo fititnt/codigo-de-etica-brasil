@@ -8,6 +8,35 @@
 
 ---
 
+# Índice
+
+<!-- TOC depthFrom:2 depthTo:3 -->
+
+- [Profissional](#profissional)
+    - [Advocacia](#advocacia)
+    - [Alta Administração Federal](#alta-administração-federal)
+    - [Engenharia](#engenharia)
+    - [Índio](#índio)
+    - [Informática](#informática)
+    - [Jornalista](#jornalista)
+    - [Medicina](#medicina)
+    - [Meio Ambiente](#meio-ambiente)
+    - [Polícia Federal](#polícia-federal)
+    - [Psicologia](#psicologia)
+    - [Relações Públicas](#relações-públicas)
+    - [Servidor Público Civil](#servidor-público-civil)
+- [Religião](#religião)
+    - [Catolicismo](#catolicismo)
+    - [Pentecostalismo](#pentecostalismo)
+- [Crime](#crime)
+    - [CV](#cv)
+    - [PCC](#pcc)
+
+<!-- /TOC -->
+
+
+---
+
 # Lista
 
 ## Profissional
@@ -83,6 +112,13 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Data: 2009-09-17
 - Arquivo: **[Código de Ética Médica](https://portal.cfm.org.br/images/stories/biblioteca/codigo%20de%20etica%20medica.pdf)**
 
+### Meio Ambiente
+
+#### Regimento Interno da Comissão de Ética do Ministério do Meio Ambiente
+- Organização: [Comissão de Ética do Ministério do Meio Ambiente (CEMMA)](http://www.mma.gov.br/institucional/comiss%C3%A3o-de-%C3%A9tica.html)
+- Data: 2009-04-06
+- Arquivo: **[Regimento Interno da Comissão de Ética do Ministério do Meio Ambiente](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=84&data=07/05/2009)**
+
 ### Polícia Federal
 
 #### Código de Ética da Polícia Federal
@@ -121,6 +157,14 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Data: 1983-01-25
 - Arquivo: **[Código de Direito Canónico](http://www.vatican.va/archive/cod-iuris-canonici/portuguese/codex-iuris-canonici_po.pdf)**
 
+### Pentecostalismo
+#### Código de Ética e Disciplina dos Membros da Convenção Geral das Assembleias de Deus no Brasil do CGADB
+- Organização: [Convenção Geral das Assembleias de Deus no Brasil (CGADB)](http://www.cgadb.org.br)
+  - [CGADB na Wikipedia](https://pt.wikipedia.org/wiki/Conven%C3%A7%C3%A3o_Geral_das_Assembleias_de_Deus_no_Brasil)
+  - Organização fundada em 1930
+- Data: 2015-04-23
+- Arquivo: **[Código de Ética e Disciplina dos Membros da Convenção Geral das Assembleias de Deus no Brasil (CGADB)](http://www.cgadb.org.br/2018a/index.php/home/features-2/codigo-de-etica.html)**
+
 ## Crime
 > Avisos importantes sobre as referências desta área:
 > 
@@ -141,14 +185,6 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Organização: [Primeiro Comando da Capital (PCC)](https://pt.wikipedia.org/wiki/Primeiro_Comando_da_Capital)
 - Data: 1993 (?)
 - (Citação do) Arquivo: **[(Suposto) Estatuto do Primeiro Comando da Capital (PCC)](https://pt.wikisource.org/wiki/Estatuto_do_PCC)**
-
-<!--
-#### NOME
-- Organização: [NOME NOME NOME NOME](http://LINK-LINK-LINK)
-- Data: YYYY-MM-DD
-- Arquivo: **[NOME NOME NOME NOME](http://LINK-LINK-LINK)**
--->
-
 
 # Contribua
 Para enviar sugestões, atualizações, correções e críticas, você pode:
