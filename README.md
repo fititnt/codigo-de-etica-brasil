@@ -4,7 +4,10 @@
 
 [![Total](badges/total.svg)](#lista) [![Profissional](badges/profissional.svg)](#profissional) [![Religião](badges/religiao.svg)](#religião) [![Crime](badges/crime.svg)](#crime)
 
-**_Veja também: [ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards) | [ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) | [ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups)_**
+**_Veja também:
+[ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards) |
+[ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
+[ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups)_**
 
 ---
 
@@ -13,8 +16,17 @@ classificado por áreas temáticas e, dentro do possível, com informações ext
 pertinentes. É liberado sob licença domínio publico.
 [Contribuições de conteúdo são encorajadas](#contribua).
 
-A motitação inicial foi ser recurso extra a possíveis interessados no
-_[Curated list of standards related to Ethics of Autonomous and Intelligent Systems (A/IS)](https://github.com/fititnt/ais-ethics-standards)_.
+A motivação inicial foi como recurso adicional à
+_[Lista de padrões relacionados a Ética em Sistemas Autônomos e Inteligentes <sup>(destino em inglês)</sup>](https://github.com/fititnt/ais-ethics-standards)_.
+Pessoas desenvolvedoras com frequência perceberão que sistemas para propósitos
+mais específicos podem ser ainda mais restritivos quanto ao alinhamento ético
+que se espera do agente humano e, consequentemente, dos agentes inteligentes
+que desenvolvem para elas. A presença da [categoria religião](#religião) também
+serve de inspiração filosófica para questões sobre ética e moralidade em
+sistemas avançados. Já a [categoria crime](#crime) está presente para que
+pessoas envolvidas em grupos de combate ao crime organizado possam ser
+pragmáticas principalmente quanto a necessidade/proporcionalidade de novas
+tecnologias de enfrentamento.
 
 ---
 
