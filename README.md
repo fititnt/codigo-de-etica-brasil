@@ -1,10 +1,20 @@
 # Lista de Códigos de Ética usados no Brasil
 
-![Lista de Códigos de Ética Usados no Brasil](img/codigo-de-etica-brasil.png)
+[![Lista de Códigos de Ética Usados no Brasil](img/codigo-de-etica-brasil.png)](https://brasil.etica.ai/)
 
 [![Total](badges/total.svg)](#lista) [![Profissional](badges/profissional.svg)](#profissional) [![Religião](badges/religiao.svg)](#religião) [![Crime](badges/crime.svg)](#crime)
 
-**_Veja também: [ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_**
+**_Veja também: [ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards) | [ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) | [ais-ethics-open-groups](https://github.com/fititnt/ais-ethics-open-groups)_**
+
+---
+
+Este repositório lista parte dos códigos de ética usados no Brasil, já
+classificado por áreas temáticas e, dentro do possível, com informações extras
+pertinentes. É liberado sob licença domínio publico.
+[Contribuições de conteúdo são encorajadas](#contribua).
+
+A motitação inicial foi ser recurso extra a possíveis interessados no
+_[Curated list of standards related to Ethics of Autonomous and Intelligent Systems (A/IS)](https://github.com/fititnt/ais-ethics-standards)_.
 
 ---
 
