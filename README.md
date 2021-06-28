@@ -63,6 +63,14 @@ tecnologias de enfrentamento.
 
 ## Profissional
 
+### Administração
+
+#### Código de Ética dos Profissionais de Administração
+
+- Organização: **[Conselho Federal de Adminstração](https://cfa.org.br/)**
+- Data: 2018
+- Arquivo: **[Código de Ética dos Profissionais de Administração](https://cfa.org.br/wp-content/uploads/2018/11/resolucao_537_2018_665.pdf)**
+
 ### Advocacia
 
 #### Código de Ética do Advogado da OAB
