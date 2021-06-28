@@ -80,6 +80,12 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Data: 2000-08-18
 - Arquivo: **[Código de Conduta da Alta Administração Federal](http://www.planalto.gov.br/ccivil_03/codigos/codi_conduta/cod_conduta.htm)**
 
+### Arquitetura e Urbanismo
+#### Código de Ética e Disciplina para Arquitetos e Urbanistas
+- Organização: [Conselho de Arquitetura e Urbanismo do Brasil](https://caubr.gov.br/)
+- Data: 2013
+- Arquivo: **[Código de Ética e Disciplina para Arquitetos e Urbanistas](https://caubr.gov.br/wp-content/uploads/2015/08/Etica_CAUBR_06_2015_WEB.pdf)**
+
 ### Engenharia
 
 #### Código de Ética Profissional da Engenharia, da Agronomia, da Geologia, da Geografia e da Meteorologia
