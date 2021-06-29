@@ -40,6 +40,7 @@ tecnologias de enfrentamento.
     - [Alta Administração Federal](#alta-administração-federal)
     - [Arquitetura e Urbanismo](#arquitetura-e-urbanismo)
     - [Engenharia](#engenharia)
+    - [Farmacêutico](#farmacêutico)
     - [Índio](#índio)
     - [Informática](#informática)
     - [Jornalista](#jornalista)
@@ -103,6 +104,15 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Organização: **[Conselho Federal de Engenharia e Agronomia (Confea)](http://www.confea.org.br)**
 - Data: 2014
 - Arquivo: **[Código de Ética Profissional da Engenharia, da Agronomia, da Geologia, da Geografia e da Meteorologia](http://www.confea.org.br/media/codigo_etica_sistemaconfea_8edicao_2015.pdf)**
+
+
+### Farmacêutico
+
+#### Código de Ética da Profissão Farmacêutica
+
+- Organização: **[Conselho Federal de Farmácia](https://www.cff.org.br/)**
+- Data: 2005
+- Arquivo: **[Código de Ética da Profissão Farmacêutica](https://www.cff.org.br/sistemas/geral/revista/pdf/76/08-codigodeetica.pdf)**
 
 ### Índio
 
