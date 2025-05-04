@@ -46,6 +46,7 @@ tecnologias de enfrentamento.
     - [Jornalista](#jornalista)
     - [Medicina](#medicina)
     - [Meio Ambiente](#meio-ambiente)
+    - [Odontologia]_(#odonntologia)
     - [Polícia Federal](#polícia-federal)
     - [Psicologia](#psicologia)
     - [Relações Públicas](#relações-públicas)
@@ -167,7 +168,13 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 - Data: 2009-04-06
 - Arquivo: **[Regimento Interno da Comissão de Ética do Ministério do Meio Ambiente](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=1&pagina=84&data=07/05/2009)**
 
-### Polícia Federal
+- ### Odontologia
+
+#### Código de Ética Odontológico
+Aviso Importante Novas tecnoclogias e especializações são adicionadas,devem ser cosultadas as atualizações regulamentadas.
+- Organização: [Conselho Regional de Odontologia São Paulo (CRSOSP)](http://www.crosp.org.br)
+- Data: 2018-03-15
+- Arquivo: **[Código de Ética Odontologico]([(https://site.crosp.org.br/uploads/etica/6ac4d2e1ab8cf02b189238519d74fd45.pdf])**### Odontologia
 
 #### Código de Ética da Polícia Federal
 - Organização: [Conselho Superior da Polícia](http://www.pf.gov.br)
