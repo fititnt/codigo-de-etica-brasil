@@ -46,7 +46,7 @@ tecnologias de enfrentamento.
     - [Jornalista](#jornalista)
     - [Medicina](#medicina)
     - [Meio Ambiente](#meio-ambiente)
-    - [Odontologia]_(#odonntologia)
+    - [Odontologia](#odontologia)
     - [Polícia Federal](#polícia-federal)
     - [Psicologia](#psicologia)
     - [Relações Públicas](#relações-públicas)
@@ -127,8 +127,8 @@ apresentado aqui e que podem ser acessados diretamente pelo site da mesma.
 
 #### Código de Ética dos Profissionais de Informática da SBC
 - Organização: [Sociedade Brasileira de Computação (SBC)](http://www.sbc.org.br/)
-- Data: 2013-07-15
-- Arquivo: **[Código de Ética dos Profissionais de Informática](http://www.sbc.org.br/jdownloads/02.codigo_de_etica_da_sbc.pdf)**
+- Data: 2024-03-21
+- Arquivo: **[Código de Ética dos Profissionais de Informática](https://www.sbc.org.br/wp-content/uploads/2024/07/C-digo-de-tica-e-Conduta-Profissional_Resolucao_002-2024.pdf)**
 
 ### Jornalista
 
@@ -234,7 +234,7 @@ Aviso Importante Novas tecnoclogias e especializações são adicionadas,devem s
 ### CV
 - Organização: [Comando Vermelho (CV)](https://pt.wikipedia.org/wiki/Comando_Vermelho)
 - Data: (?)
-- (Citação do) Arquivo: **[(Suposto) Estatuto do Comando Vermelho (CV)](http://cnews.com.br/cnews/noticias/107696/menor_revela_detalhes_sobre_%22batismo%22_no_comando_vermelho)**
+- (Citação do) Arquivo: **[(Suposto) Estatuto do Comando Vermelho (CV)](https://www.meiahora.com.br/geral/policia/2019/10/5807578-policia-civil-apreende--estatuto--e--dez-mandamentos--do-comando-vermelho.html#foto=1)**
 
 ### PCC
 - Organização: [Primeiro Comando da Capital (PCC)](https://pt.wikipedia.org/wiki/Primeiro_Comando_da_Capital)
